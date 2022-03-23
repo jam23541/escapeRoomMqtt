@@ -1,0 +1,1 @@
+The system has three channels in total, namely ChanRawMsgFromMqtt(contains all msg that is not in the format of mqttmsg),ChanCleanMsgFromMqtt(contains all msg that is in the format of mqttmsg) and ChanMsgToPub(all msg to be published, in the format of mqttmsg)
